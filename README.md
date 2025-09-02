@@ -28,8 +28,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-##[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This was a dissertation project to design a novel and decentralized intersection based on a modular form or reinforcement learning with Dyna-Q capabilities. The goal was to create a machine learning AI that could manage traffic in a way that could not only be explainable but also decentralized and scale upwards through scalable negotiations with neighboring intersections.
 
 The program utilizes a hybrid application of MATLAB, SUMO(Simulation of Urban Mobility), and a handshake program where MATLAB will handle the AI aspects, SUMO generates the traffic environment, and the handshake program allows MATLAB to influence and observe the SUMO simulation.
@@ -53,7 +51,7 @@ The repository should include the following:
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![MATLAB][MATLAB.com]][MATLAB-url]
-* [![SUMO][SUMO.com][SUMO-url]
+* [![SUMO][SUMO.com]][SUMO-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
